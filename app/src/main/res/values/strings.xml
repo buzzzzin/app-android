@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Buzzzz</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="msg_login_progress">Login</string>
+    <string name="progress_dialog_msg">Please wait...</string>
+    <string name="title_activity_interest">Interest</string>
+    <string name="title_activity_create_buzz">Create Buzzzz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_skip">Skip</string>
+    <string name="dialog_msg_upload_image">Uploading image</string>
+    <string name="msg_choose_different">Please choose different picture</string>
+    <string name="msg_select_file">Select file to upload</string>
+    <string name="label_add_photo">Add Poster</string>
+    <string name="label_take_photo">Take a photo</string>
+    <string name="label_camera_roll">Select from camera roll</string>
+    <string name="label_remove_image"><u>Remove Image</u></string>
+    <string name="msg_image_not_uploaded">Please try again, unable to upload image</string>
+    <string name="msg_image_not_deleted">Please try again, unable to delete image</string>
+    <string name="menu_title">filter</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_trending">Buzzzzs</string>
+    <string name="title_activity_pick_venue_on_maps">Pick Venue on Map</string>
+    <string name="increase_range_msg">No buzz happning arround your current location range, increase your radius range</string>
+    <string name="label_next">Next</string>
 </resources>
