@@ -6,7 +6,6 @@
     <string name="title_activity_interest">Interest</string>
     <string name="title_activity_create_buzz">Create Buzzzz</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="action_skip">Skip</string>
     <string name="dialog_msg_upload_image">Uploading image</string>
@@ -22,6 +21,6 @@
     <string name="logout">Logout</string>
     <string name="title_activity_trending">Buzzzzs</string>
     <string name="title_activity_pick_venue_on_maps">Pick Venue on Map</string>
-    <string name="increase_range_msg">No buzz happning arround your current location range, increase your radius range</string>
+    <string name="increase_range_msg">No buzz happening around your current location range, increase your radius range</string>
     <string name="label_next">Next</string>
 </resources>
